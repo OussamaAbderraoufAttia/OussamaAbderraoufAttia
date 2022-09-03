@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaAbderraoufAttia
 - 👀 I’m interested in AI and developing beautiful apps with intelligent functionalities
-- 🌱 I’m currently learning Python and trying to apply into machine learning and also developing apps using java/flutter
+- 🌱 I’m currently learning Python and trying to apply in into machine learning and also developing apps using java/flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can mail me through lo_attia@esi.dz or via insta @ooouussaammaaa
 

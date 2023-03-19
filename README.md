@@ -13,13 +13,13 @@
       <img src="https://d1fdloi71mui9q.cloudfront.net/9aiy7UL7TvSMYiNPj9pb_dDYBE5pe66LEqv4Z" width="30">\
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.ipynb```,``` .py```, ```.js```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
+- 🌱 I’m currently learning NLP and mobile dev.
+- 💬 Talk to me about Taylor Swift and the eras tour or about python. I have no prob!!!!
 - 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
-
+- 📝 I regulary write articles on [Medium](https://medium.com/@lo_attia) 
+- 👯 We can connect on [instagram.com](https://www.instagram.com/ooouussaammaaa/)♟ to talk about TS!
+- ⚡ Fun fact: I do not like football!
+- 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
@@ -74,20 +74,9 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ---
 
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-<!-- BLOG-POST-LIST:END -->
----
+
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
 
-Last Edited on: 26/11/2020

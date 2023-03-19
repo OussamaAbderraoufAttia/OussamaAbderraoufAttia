@@ -9,9 +9,10 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+- 🏦 I am currently the events department manager at School of AI Algiers doing AI and organizing events about AI and data
+      <img src="https://d1fdloi71mui9q.cloudfront.net/9aiy7UL7TvSMYiNPj9pb_dDYBE5pe66LEqv4Z" width="30">\
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+- 🤔 I use daily ```.ipynb```,``` .py```, ```.js```
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/Him

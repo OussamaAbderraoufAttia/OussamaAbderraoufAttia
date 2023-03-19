@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning NLP and mobile dev.
 - 💬 Talk to me about Taylor Swift and the eras tour or about python. I have no prob!!!!
 - 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [Medium](https://medium.com/@lo_attia) 
-- 👯 We can connect on [instagram.com](https://www.instagram.com/ooouussaammaaa/)♟ to talk about TS!
+- 📝 I regulary write articles on [medium](https://medium.com/@lo_attia) 
+- 👯 We can connect on [instagram.com](https://www.instagram.com/ooouussaammaaa/) to talk about TS!
 - ⚡ Fun fact: I do not like football!
 - 
 <p align="center">

@@ -21,7 +21,7 @@
 - 👯 We can connect on [instagram.com](https://www.instagram.com/ooouussaammaaa/) to talk about TS!
 - ⚡ Fun fact: I do not like football!
 
-<p align="center">
+<p align="row">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
